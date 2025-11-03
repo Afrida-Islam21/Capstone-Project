@@ -78,10 +78,6 @@ This is an **IoT-based smart waste management prototype** built for a university
 
 ---
 
-<h4 align="center">
-  🎥 Watch it in action — our real-time waste detection and alert demo from the FYDP showcase!
-</h4>
-
 
 <h2 align="center">🧠 Technologies</h2>
 

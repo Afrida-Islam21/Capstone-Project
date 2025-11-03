@@ -67,6 +67,22 @@ This is an **IoT-based smart waste management prototype** built for a university
 
 ---
 
+---
+
+<h2 align="center">📸 Our Team</h2>
+
+<p align="center">
+  <img src="IMG_5721.jpg" alt="Smart Waste Bin Prototype" width="420" style="border-radius:15px; box-shadow:0 0 10px rgba(0,0,0,0.3); margin:10px;"/>
+</p>
+
+
+---
+
+<h4 align="center">
+  🎥 Watch it in action — our real-time waste detection and alert demo from the FYDP showcase!
+</h4>
+
+
 <h2 align="center">🧠 Technologies</h2>
 
 <p align="center">
@@ -79,5 +95,6 @@ This is an **IoT-based smart waste management prototype** built for a university
 
 <p align="center">
   <b>A smarter, cleaner, and more sustainable future.</b>
+  
 </p>
 
